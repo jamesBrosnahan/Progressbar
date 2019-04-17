@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Progress Bar Example",
+  "version": "1",
+  "icons": {
+    "128": "clock_icon_256.png"
+  },
+  "permissions": [],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "minimum_chrome_version": "28"
+}
